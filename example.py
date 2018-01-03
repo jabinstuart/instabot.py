@@ -13,19 +13,19 @@ from instabot import InstaBot
 from unfollow_protocol import unfollow_protocol
 
 bot = InstaBot(
-    login="username",
-    password="password",
-    like_per_day=1000,
-    comments_per_day=0,
+    login="jabin_stuart______,
+    password="jabincoolboy",
+    like_per_day=2000,
+    comments_per_day=200,
     tag_list=['follow4follow', 'f4f', 'cute'],
     tag_blacklist=['rain', 'thunderstorm'],
     user_blacklist={},
     max_like_for_one_tag=50,
-    follow_per_day=300,
-    follow_time=1 * 60,
-    unfollow_per_day=300,
-    unfollow_break_min=15,
-    unfollow_break_max=30,
+    follow_per_day=,
+    follow_time=,
+    unfollow_per_day=,
+    unfollow_break_min=,
+    unfollow_break_max=,
     log_mod=0,
     proxy='',
     # List of list of words, each of which will be used to generate comment
